@@ -5,7 +5,7 @@ This is a simple Instagram clone built using [React.js,Express.js,MongoDB,Bootst
 
 ## Features
 
-- User authentication (login/sign-up)
+- User authentication (login/logout)
 - Profile page with user details
 - Post images and captions
 - Follow/unfollow users
