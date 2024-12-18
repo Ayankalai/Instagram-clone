@@ -1,4 +1,4 @@
-# Instagram-clone
+
 # Instagram Clone
 
 This is a simple Instagram clone built using [React.js,Express.js,MongoDB,Bootstrap,Node.js]. The project aims to replicate basic Instagram features like user authentication, posting photos, and following users.
